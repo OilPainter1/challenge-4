@@ -28,11 +28,18 @@ section {
     font-size: large;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-.button-div {
+#button-div {
     display: flex;
     justify-content: center;
     
 }
 #button{
     background-color: blanchedalmond;
+}
+.questions{
+    display: flex;
+    justify-content: center;
+    margin-top: 20px;
+    background-color: rgb(100, 188, 188);
+    font-size: 30px;
 }
