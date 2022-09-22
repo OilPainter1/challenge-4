@@ -1,0 +1,38 @@
+header {
+    display: flex;
+    justify-content: center;
+    background-color: coral;
+    border-radius: 10px;
+    padding: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-top: 20px;
+
+}
+header div {
+    background-color: rgb(248, 158, 110);
+    border-radius: 5px;
+    font-size: 30px;
+    
+}
+section {
+    display: flex;
+    justify-content: center;
+    background-color: rgb(144, 221, 221);
+    margin: 40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+.question {
+    padding: 20px;
+    margin: 20px;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.button-div {
+    display: flex;
+    justify-content: center;
+    
+}
+#button{
+    background-color: blanchedalmond;
+}
